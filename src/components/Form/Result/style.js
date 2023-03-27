@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
         borderTopRightRadius: 10,
     },
 
-    msgResutado: {
+    msgResultado: {
         fontSize: 22,
         color: '#FFF',
         textAlign: 'center',
